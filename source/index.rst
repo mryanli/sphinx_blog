@@ -10,13 +10,8 @@ Welcome to mryanli's blog's documentation!
    :maxdepth: 2
    :caption: Contents:
    
-   hwo_to_be_a_rich_man
+   how_to_be_a_rich_man
 
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
