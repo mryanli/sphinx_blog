@@ -45,7 +45,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'CODING\'S BLOG'
+project = u'CODING\'S ROAD'
 copyright = u'2016, bao'
 author = u'bao'
 
